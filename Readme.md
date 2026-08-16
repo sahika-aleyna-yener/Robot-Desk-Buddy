@@ -52,4 +52,4 @@ Bu proje, Arduino Uno kullanarak masada kullanıcıya eşlik eden, ortam ışı�
 
 ## 📷 Devre Şeması
 
-![Devre Şemasi](arduino.png)
+![Devre Şemasi](file:///Users/sahikaaleynayener/Desktop/RobotDeskBuddy/arduino.png)
